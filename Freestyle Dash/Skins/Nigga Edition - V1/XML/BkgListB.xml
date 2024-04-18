@@ -1,0 +1,250 @@
+<backgroundlist>
+	<Background name="Dashboard">
+		<FILEPATH>Images\Backgrounds\Stages\dash.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\dash_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Edges">
+		<FILEPATH>Images\Backgrounds\Stages\spigoli.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\spigoli_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Hot-air balloon">
+		<FILEPATH>Images\Backgrounds\Stages\mongolfiera.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\mongolfiera_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Waves">
+		<FILEPATH>Images\Backgrounds\Stages\onde.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\onde_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Spiral">
+		<FILEPATH>Images\Backgrounds\Stages\spirale.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\spirale_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Windows">
+		<FILEPATH>Images\Backgrounds\Stages\finestre.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\finestre_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Colors">
+		<FILEPATH>Images\Backgrounds\Stages\colori.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\colori_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Particular 1">
+		<FILEPATH>Images\Backgrounds\Stages\particolare1.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\particolare1_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Particular 2">
+		<FILEPATH>Images\Backgrounds\Stages\particolare2.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\particolare2_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Particular 3">
+		<FILEPATH>Images\Backgrounds\Stages\particolare3.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\particolare3_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Desert">
+		<FILEPATH>Images\Backgrounds\Stages\deserto.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\deserto_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Sea">
+		<FILEPATH>Images\Backgrounds\Stages\mare.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\mare_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Rock">
+		<FILEPATH>Images\Backgrounds\Stages\roccia.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\roccia_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Ice">
+		<FILEPATH>Images\Backgrounds\Stages\ghiaccio.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\ghiaccio_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Mount">
+		<FILEPATH>Images\Backgrounds\Stages\monte.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\monte_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Lawn">
+		<FILEPATH>Images\Backgrounds\Stages\prato.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\prato_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Metro">
+		<FILEPATH>Images\Backgrounds\Stages\metro.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\metro_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 1">
+		<FILEPATH>Images\Backgrounds\Stages\fioribiancoceleste.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fioribiancoceleste_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 2">
+		<FILEPATH>Images\Backgrounds\Stages\fioriverdegiallo.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fioriverdegiallo_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 3">
+		<FILEPATH>Images\Backgrounds\Stages\fioricelesterosso.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fioricelesterosso_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 4">
+		<FILEPATH>Images\Backgrounds\Stages\fiorirossoverde.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fiorirossoverde_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 5">
+		<FILEPATH>Images\Backgrounds\Stages\fiorirosaarancio.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fiorirosaarancio_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 6">
+		<FILEPATH>Images\Backgrounds\Stages\fioriverderosa.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fioriverderosa_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Flora 7">
+		<FILEPATH>Images\Backgrounds\Stages\fiorimarronerosso.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\fiorimarronerosso_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Honey">
+		<FILEPATH>Images\Backgrounds\Stages\miele.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\miele_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Nautilus">
+		<FILEPATH>Images\Backgrounds\Stages\nautilus.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\nautilus_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Piano">
+		<FILEPATH>Images\Backgrounds\Stages\piano.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\piano_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Seattle">
+		<FILEPATH>Images\Backgrounds\Stages\seattle.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\seattle_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Intersection">
+		<FILEPATH>Images\Backgrounds\Stages\incrocio.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\incrocio_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 1.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema1.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema1_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 2.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema2.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema2_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 3.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema3.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema3_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 4.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema4.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema4_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 5.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema5.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema5_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 6.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema6.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema6_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 7.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema7.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema7_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 8.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema8.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema8_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 9.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema9.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema9_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 10.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema10.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema10_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 11.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema11.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema11_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 12.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema12.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema12_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 13.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema13.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema13_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 14.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema14.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema14_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 15.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema15.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema15_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 16.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema16.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema16_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 17.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema17.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema17_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 18.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema18.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema18_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 19.1">
+		<FILEPATH>Images\Backgrounds\Stages\tema19.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema19_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 20.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema20.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema20_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 21.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema21.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema21_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 22.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema22.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema22_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 23.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema23.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema23_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 24.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema24.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema24_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 25.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema25.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema25_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme 26.0">
+		<FILEPATH>Images\Backgrounds\Stages\tema26.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema26_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme Betta">
+		<FILEPATH>Images\Backgrounds\Stages\tema27.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\tema27_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Theme DOC">
+		<FILEPATH>Images\Backgrounds\Stages\temadoc.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\temadoc_pr.png</PREVIEWPATH>
+	</Background>
+	<Background name="Windows 98">
+		<FILEPATH>Images\Backgrounds\Stages\98.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\98_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Windows Me">
+		<FILEPATH>Images\Backgrounds\Stages\me.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\me_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Windows XP">
+		<FILEPATH>Images\Backgrounds\Stages\xp.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\xp_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Windows Vista">
+		<FILEPATH>Images\Backgrounds\Stages\vista.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\vista_pr.jpg</PREVIEWPATH>
+	</Background>
+	<Background name="Windows Seven">
+		<FILEPATH>Images\Backgrounds\Stages\seven.jpg</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Stages\Previews\seven_pr.jpg</PREVIEWPATH>
+	</Background>
+</backgroundlist>

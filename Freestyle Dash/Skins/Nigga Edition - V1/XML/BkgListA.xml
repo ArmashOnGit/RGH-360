@@ -1,0 +1,94 @@
+<backgroundlist>
+	<Background name="Green">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verde.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verde.png</PREVIEWPATH>
+	</Background>
+	<Background name="Dark green">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verdescuro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verdescuro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Yellow green">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verdechiaro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verdechiaro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Yellow">
+		<FILEPATH>Images\Backgrounds\Wallpapers\giallo.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\giallo.png</PREVIEWPATH>
+	</Background>
+	<Background name="Amber">
+		<FILEPATH>Images\Backgrounds\Wallpapers\ambra.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\ambra.png</PREVIEWPATH>
+	</Background>
+	<Background name="Orange">
+		<FILEPATH>Images\Backgrounds\Wallpapers\arancio.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\arancio.png</PREVIEWPATH>
+	</Background>
+	<Background name="Red">
+		<FILEPATH>Images\Backgrounds\Wallpapers\rosso.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\rosso.png</PREVIEWPATH>
+	</Background>
+	<Background name="Dark red">
+		<FILEPATH>Images\Backgrounds\Wallpapers\porpora.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\porpora.png</PREVIEWPATH>
+	</Background>
+	<Background name="Brown">
+		<FILEPATH>Images\Backgrounds\Wallpapers\marrone.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\marrone.png</PREVIEWPATH>
+	</Background>
+	<Background name="Fandango">
+		<FILEPATH>Images\Backgrounds\Wallpapers\melanzana.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\melanzana.png</PREVIEWPATH>
+	</Background>
+	<Background name="Magenta">
+		<FILEPATH>Images\Backgrounds\Wallpapers\magenta.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\magenta.png</PREVIEWPATH>
+	</Background>
+	<Background name="Pink">
+		<FILEPATH>Images\Backgrounds\Wallpapers\rosa.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\rosa.png</PREVIEWPATH>
+	</Background>
+	<Background name="Violet">
+		<FILEPATH>Images\Backgrounds\Wallpapers\viola.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\viola.png</PREVIEWPATH>
+	</Background>
+	<Background name="Blue violet">
+		<FILEPATH>Images\Backgrounds\Wallpapers\indaco.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\indaco.png</PREVIEWPATH>
+	</Background>
+	<Background name="Indigo">
+		<FILEPATH>Images\Backgrounds\Wallpapers\blupersia.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\blupersia.png</PREVIEWPATH>
+	</Background>
+	<Background name="Dark blue">
+		<FILEPATH>Images\Backgrounds\Wallpapers\bluscuro.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\bluscuro.png</PREVIEWPATH>
+	</Background>
+	<Background name="Blue">
+		<FILEPATH>Images\Backgrounds\Wallpapers\blu.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\blu.png</PREVIEWPATH>
+	</Background>
+	<Background name="Azure">
+		<FILEPATH>Images\Backgrounds\Wallpapers\ciano.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\ciano.png</PREVIEWPATH>
+	</Background>
+	<Background name="Celeste">
+		<FILEPATH>Images\Backgrounds\Wallpapers\celeste.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\celeste.png</PREVIEWPATH>
+	</Background>
+	<Background name="Aqua">
+		<FILEPATH>Images\Backgrounds\Wallpapers\verdeacqua.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\verdeacqua.png</PREVIEWPATH>
+	</Background>
+	<Background name="Cerulean">
+		<FILEPATH>Images\Backgrounds\Wallpapers\ceruleo.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\ceruleo.png</PREVIEWPATH>
+	</Background>
+	<Background name="Grey">
+		<FILEPATH>Images\Backgrounds\Wallpapers\grigio.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\grigio.png</PREVIEWPATH>
+	</Background>
+	<Background name="Black">
+		<FILEPATH>Images\Backgrounds\Wallpapers\nero.png</FILEPATH>
+		<PREVIEWPATH>Images\Backgrounds\Wallpapers\nero.png</PREVIEWPATH>
+	</Background>
+</backgroundlist>
