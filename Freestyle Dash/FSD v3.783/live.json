@@ -1,0 +1,69 @@
+{
+	"parsed" : true,
+	"mediatype" : "1",
+	"gametitlemediaid" : "",
+	"reducedtitle" : "F3",
+	"reduceddescription" : "Freestyle 3 is the third installment of a dashboard replacement written by teamFSD. It allows users to list their games and homebrew which can be stored on various media. F3 is skinnable and highly adjustable to every users liking.",
+	"availabilitydate" : "2012-09-22T00:00:00",
+	"releasedate" : "2012-09-22T00:00:00",
+	"ratingid" : "40",
+	"developer" : "teamFSD",
+	"publisher" : "n/a",
+	"newestofferstartdate" : "2012-09-22T00:00:00Z",
+	"totaloffercount" : "2",
+	"totalsubscriptioncount" : "1",
+	"titleid" : "",
+	"effectivetitleid" : "",
+	"gamereducedtitle" : "F3",
+	"fulltitle" : "Freestyle 3",
+	"description": "Take your modded Xbox 360 to the next level with this third installment of the most popular dashboard replacement created by teamFSD.\nAutomatically scan your harddrives for playable games and homebrew. Choose your own wallpapers, customize the menus to your liking,\nor even create your own skins!\n\nPlay together with friends accross the world on LiNK using F3 in combination with Freestyle Plugin and <a target=\"_blank\" href=\"http://link.JQE360.com\">link.JQE360.com</a>.\nGet real time game info via WebUI, or add notes to the screencaptures you took while playing your favorite game!\n\n<div class=\"f3 features left\">    <div class=\"f3 fieldname\">Some Freestyle 3 features:</div>    <ul class=\"f3 features list\">        <li>Coverflow title menu</li>        <li>Stylable menus</li>        <li>Custom wallpapers</li>        <li>Automatic title scanning</li>        <li>FTP Server</li>        <li>SMB Server</li>        <li>Webserver</li>        <li>Weather info</li>        <li>File manager</li>        <li>Fully reskinnable</li>    </ul></div><div class=\"f3 left\">    <div class=\"f3 fieldname\">In combination with Freestyle Plugin:</div>    <ul class=\"f3 features list\">        <li>LiNK with HUD</li>        <li>In game screen captures</li>        <li>Web interface (including system info and notes on screencaptures)</li>    </ul></div>",
+	"ratingaggregate" : "0",
+	"numberofratings" : "0",
+	"categories" : [{
+			"categoryid" : "0000",
+			"system" : "0000",
+			"name" : "Homebrew"
+		}, {
+			"categoryid" : "0001",
+			"system" : "0000",
+			"name" : "Dashboard Replacement"
+		}
+	],
+	"ratingdescriptors" : [],
+	"video" : {
+		"videodefinition" : "",
+		"videoencoding" : "",
+		"audioencoding" : "",
+		"isacquirable" : "",
+		"aspectratio" : "",
+		"resolution" : "",
+		"url" : ""
+	},
+	"images" : {
+		"icon" : "getGameFile?path=Media/Assets/tile.png",
+		"banner" : "getGameFile?path=Media/Assets/banner.png",
+		"boxart" : {
+			"small" : "getGameFile?path=Media/Assets/boxartsm.jpg",
+			"large" : "getGameFile?path=Media/Assets/boxartlg.jpg"
+		},
+		"background" : "getGameFile?path=Media/Assets/background.jpg",
+		"screenshots" : ["getGameFile?path=Media/Assets/screenlg1.jpg", "getGameFile?path=Media/Assets/screenlg2.jpg", "getGameFile?path=Media/Assets/screenlg3.jpg", "getGameFile?path=Media/Assets/screenlg4.jpg", "getGameFile?path=Media/Assets/screenlg5.jpg", "getGameFile?path=Media/Assets/screenlg6.jpg", "getGameFile?path=Media/Assets/screenlg7.jpg", "getGameFile?path=Media/Assets/screenlg8.jpg"]
+	},
+	"gamecapabilities" : {
+		"offlineplayersmin" : "",
+		"offlineplayersmax" : "",
+		"offlinecoopplayersmin" : "",
+		"offlinecoopplayersmax" : "",
+		"offlinesystemlinkmin" : "",
+		"offlinesystemlinkmax" : "",
+		"offlinemaxhdtvmodeid" : "",
+		"offlinedolbydigital" : "",
+		"onlinemultiplayermin" : "",
+		"onlinemultiplayermax" : "",
+		"onlinecoopplayersmin" : "",
+		"onlinecoopplayersmax" : "",
+		"onlinecontentdownload" : "",
+		"onlineleaderboards" : "",
+		"onlinevoice" : ""
+	}
+}
