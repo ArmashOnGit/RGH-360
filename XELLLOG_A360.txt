@@ -1,0 +1,35 @@
+
+|---------------------------------------------|
+| XeLL Reloaded - Xenon Linux Loader          |
+|---------------------------------------------|
+
+* FUSES - write them down and keep them safe:
+fuseset 00: c0ffffffffffffff
+fuseset 01: 0f0f0f0f0f0ff0f0
+fuseset 02: f000000000000000
+fuseset 03: fd04692f2ed57274
+fuseset 04: fd04692f2ed57274
+fuseset 05: 58341a33d6fe506d
+fuseset 06: 58341a33d6fe506d
+fuseset 07: f000000000000000
+fuseset 08: 0000000000000000
+fuseset 09: 0000000000000000
+fuseset 10: 0000000000000000
+fuseset 11: 0000000000000000
+
+
+CPU Key: FD04692F2ED5727458341A33D6FE506D
+DVD Key: 21A909F47454887F1644796552C02A8B
+
+* MSerial: 000000009256564201720518
+* CSerial: 000721405208
+* CPU PWR: 00710800
+* Console: Trinity
+* 2BL LDV: 1
+* 6BL LDV: 1
+
+* Network: 192.168.1.99 / 255.255.255.0
+      MAC: 7CED8D3CE6F8
+
+* Looking for files on local media and TFTP...
+      * 98:xenon.z...
